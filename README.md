@@ -7,7 +7,6 @@ This repository contains the code and methodology for a machine learning model d
 
 ## Data Source
 -   **MDClone Synthetic Data**: The dataset used for this project is synthetic, generated using MDClone. It simulates real-world patient data relevant to cirrhosis, including demographics, laboratory values, clinical scores, and complications.
-    -   *Note: As this data is synthetic, it does not contain real patient information. However, access to and use of MDClone-generated data may be subject to institutional or organizational policies.*
 
 ---
 
