@@ -38,7 +38,6 @@ A machine learning pipeline was developed to predict 6-month mortality in a synt
     * Missing data was handled using imputation techniques (e.g., median imputation for numerical features).
     * The dataset was split into training (80%) and testing (20%) sets.
 5.  **Modeling**:
-    * Several classification models were explored, including Logistic Regression, Random Forest, and XGBoost.
     * XGBoost was selected as the primary model for further optimization.
     * Hyperparameter tuning for the XGBoost model was performed using GridSearchCV with 3-fold cross-validation, optimizing for parameters like `n_estimators`, `max_depth`, `learning_rate`, `gamma`, `subsample`, and `colsample_bytree`.
 6.  **Model Evaluation**:
